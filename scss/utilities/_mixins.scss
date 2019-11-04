@@ -1,6 +1,18 @@
 
-@mixin font-weight($f) {
+@mixin font($fnt_size:null, $fnt_clr:null, $fnt_wt: null, $fnt_style: null) {
 
-font-weight:$f;
+font-size:$fnt_size;
+color: $fnt_clr;
+font-weight:$fnt_wt;
+font-style: $fnt_style;
+
+}
+
+
+@mixin center () {
+
+display:auto;
+margin-left: auto;
+margin-right:auto;
 
 }

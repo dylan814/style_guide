@@ -1,0 +1,42 @@
+.btn {
+
+  margin-top: 15px;
+  width: 100%;
+  color: $color-white;
+  border: none;
+  padding: 10px 0;
+  text-transform: uppercase;
+  border-radius: 5px;
+    @media (min-width:$tablet){
+      padding: 10px 30px;
+    }
+}
+
+
+@media (min-width:$tablet) {
+
+.btn + .btn {
+  margin-left: 10px;
+}
+
+}
+
+.default {
+  background-color:$color-background-default ;
+}
+
+.error {
+  background-color: $color-background-error;
+}
+
+.info {
+  background-color: $color-background-info;
+}
+
+.success {
+  background-color: $color-background-success;
+}
+
+.warning {
+  background-color: $color-background-warning;
+}
