@@ -1,8 +1,4 @@
 
-
-
-
-
 // *********************************************
 // Variables
 
@@ -10,24 +6,13 @@
 // ***********************************************
 
 @import 'utilities/index';
-
-
-
-
-
-
-
-
 @import 'base/index';
+@import 'components/index';
 
 
 
+h1 {
 
-
-
-* {
-
-box-sizing: border-control;
-//kkk
+color: $color-white;
 
 }
