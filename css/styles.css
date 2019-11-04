@@ -338,7 +338,7 @@ template {
 }
 
 * {
-  box-sizing: border-control;
+  box-sizing: border-box;
 }
 
 p {
@@ -417,7 +417,7 @@ a {
 @media (min-width: 768px) {
   .container {
     max-width: 1400px;
-    display: auto;
+    display: block;
     margin-left: auto;
     margin-right: auto;
   }
@@ -425,7 +425,7 @@ a {
 
 @media (min-width: 768px) {
   .centered {
-    display: auto;
+    display: block;
     margin-left: auto;
     margin-right: auto;
   }

@@ -11,7 +11,7 @@ font-style: $fnt_style;
 
 @mixin center () {
 
-display:auto;
+display:block;
 margin-left: auto;
 margin-right:auto;
 
