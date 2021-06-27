@@ -1,4 +1,4 @@
-# style_guide
+# The SASS style guide project
 These files are a part of Dylan Pereira's submission for Treehouse's Front-End Web Development Techdegree project "Web Style Guide". 
 
 This project involves the use of Sass, the CSS preprocessor, to demonstrate skill in this popular means of writing scalable CSS.
