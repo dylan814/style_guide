@@ -9,4 +9,4 @@ The media query breakpoints used in this project follow the recommendations in t
 - HTML validated via the W3C Markup Validation Service.
 - CSS validated via the W3C CSS Validation Service.
 
-The Live URL is: https//github.com/dylan814/style_guide
+The Live URL is: https://dylan814.github814.io/style_guide
